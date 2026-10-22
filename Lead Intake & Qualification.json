@@ -1,6 +1,6 @@
 {
   "name": "Lead Intake & Qualification",
-  "nodes": [
+  "nodes": 
     {
       "parameters": {
         "promptType": "define",
