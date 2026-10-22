@@ -17,3 +17,7 @@ Import the workflow JSON into n8n, configure the required credentials, and test 
 **FlowPi** — A smarter world, together.
 
 Website: https://www.flowpi.net
+
+
+
+![Lead Intake Workflow](screenshots/Screenshot 2026-10-22 at 15.39.57.png)
