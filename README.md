@@ -21,3 +21,4 @@ Website: https://www.flowpi.net
 
 ## Screenshots
 ![Lead Intake Workflow](Screenshot%202026-10-22%20at%2015.39.57.png)
+![Lead Intake Workflow](Screenshot%2026-10-22%at%16.18.05.png)
