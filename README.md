@@ -20,8 +20,10 @@ Website: https://www.flowpi.net
 
 
 
-## Screenshots
+## Workflow Screenshots
 
 ![Lead Intake Workflow](Screenshot%202026-10-22%20at%2015.39.57.png)
 
 ![Lead Qualification Results](Screenshot%202026-10-22%20at%2016.18.05.png)
+
+![Lead Qualification Details](Screenshot%202026-10-22%20at%2016.18.43.png)
